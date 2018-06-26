@@ -11,7 +11,7 @@ etc
 
 In this POC we want to demonstrate how different entities in the network can share the ledger and how different ascpects of supply chain can be automated using Chaincodes (Smart Contracts).
 
-########## Sprint 1 ##################################
+########## Sprint 1 ##############
 ==========================
 In the first sprint we target to:
 

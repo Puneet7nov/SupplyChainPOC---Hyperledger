@@ -1,0 +1,8 @@
+NodeOUs:
+  Enable: true
+  ClientOUIdentifier:
+    Certificate: cacerts/ca.hyundruti.auto-supplychain-poc.com-cert.pem
+    OrganizationalUnitIdentifier: client
+  PeerOUIdentifier:
+    Certificate: cacerts/ca.hyundruti.auto-supplychain-poc.com-cert.pem
+    OrganizationalUnitIdentifier: peer
